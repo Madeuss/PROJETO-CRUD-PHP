@@ -92,7 +92,7 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`idUser`, `usuario`, `senha`) VALUES
-(1, 'admin', 'cb5a7a780e418476d6c4e6b26373f87f');
+(1, 'admin', '202cb962ac59075b964b07152d234b70');
 
 --
 -- Índices para tabelas despejadas
