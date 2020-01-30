@@ -1,0 +1,60 @@
+/* ESTILO CSS */
+
+*{ margin: 0; padding: 0; }
+
+body{
+    font-family: "helvetica, arial"; 
+    color:#333;
+}
+header{
+    height: 120px;
+    background-color: #262626;
+}
+header img{
+    height: 100px;
+    margin-top: 10px;
+}
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: auto;
+    background-color: #262626;
+    color: rgb(218, 145, 252);
+    text-align: center;
+}
+#textFo{
+    margin: 10px auto;
+}
+/* class */
+.container{
+    margin: 0 auto;
+    width: 95%;
+}
+#conteudo{
+    margin: 50px auto;
+}
+#menu{
+    position: relative;
+    float: right;
+    padding: 0; 
+    margin: 40px auto;
+}
+#menu ul{
+    list-style-type: none;
+}
+#menu ul li{
+    float: left;
+    display: inline;
+    border-radius: 8px;
+}
+
+#menu ul li:hover{
+    background-color: rgb(218, 145, 252);
+}
+#menu a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    color: snow;
+}
