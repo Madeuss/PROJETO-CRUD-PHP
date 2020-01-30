@@ -16,7 +16,7 @@ Preocupação com segurança na área de login (SQL Injection e md5)
 **# Configuração do Projeto:**
 
 ```
-Importar o arquivo no phpMyAdmin para criar as tabelas necessárias.
+Importar o arquivo 'academia.sql' no phpMyAdmin para criar as tabelas necessárias.
 Editar o arquivo db.php
 
 $servidor = "localhost";
