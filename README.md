@@ -1,4 +1,4 @@
-**# Projeto CRUD em PHP - HTML, CSS, BOOTSTRAP & MySQL**
+# Projeto CRUD em PHP - HTML, CSS, BOOTSTRAP & MySQL
 
 Projeto de um simples CRUD(curso/academia) desenvolvido em PHP com acesso ao MySQL
 
@@ -13,7 +13,7 @@ Preocupação com segurança na área de login (SQL Injection e md5)
 
 ```
 
-**# Configuração do Projeto:**
+**Configuração do Projeto:**
 
 ```
 Importar o arquivo 'academia.sql' no phpMyAdmin para criar as tabelas necessárias.
