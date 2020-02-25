@@ -26,6 +26,6 @@ $database = "academia";
 
 ```
 
-**Usuário padrão: 'admin'**
+*Usuário padrão: 'admin'*
 
-**Senha: '123'**
+*Senha: '123'*
